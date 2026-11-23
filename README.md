@@ -52,5 +52,7 @@ V2では、性別、入塾時期、学習塾規模によって普及度と特徴
 - [02：入塾目的と消費価値の共起分析](reports/02_purpose_value.md)
 - [03：消費価値の普及度と特徴度の比較](reports/03_coverage_lift.md)
 - [04：家庭教育方針と家族内意思決定の分析](reports/04_family_decision.md)
+- [05：新規入塾者獲得に向けたマーケティング戦略](reports/05_marketing_strategy.md)
+
 
 
