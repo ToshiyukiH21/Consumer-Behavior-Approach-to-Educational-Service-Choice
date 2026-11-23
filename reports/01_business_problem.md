@@ -199,7 +199,7 @@ flowchart TD
 - [分析1：入塾目的と消費価値の共起分析](02_purpose_value.md)
 - [分析2：消費価値の普及度と特徴度](03_coverage_lift.md)
 - [分析3：家庭教育方針と家族内意思決定](04_family_decision.md)
-- [総合考察・マーケティング施策提案](05_recommendations.md)
+- [総合考察・マーケティング施策提案](05_marketing_strategy.md)
 
 ※ 各レポートへのリンクは該当ファイル公開後に利用できる。
 
